@@ -1,16 +1,14 @@
 # shopping_list_app
 
-A new Flutter project.
+flutter project to learn how to handle state management and http requests to a firebase backend.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/DanielaAvendano/shopping_list_app/assets/93679196/2ccab4fe-af38-4269-8c0a-1d985cfe7e0b
+https://github.com/DanielaAvendano/shopping_list_app/assets/93679196/51ef9a3c-7169-41e2-84f7-a795e48e806f
+
