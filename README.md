@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 
 
+<img src="![shopping-list](https://github.com/DanielaAvendano/shopping_list_app/assets/93679196/873013e8-950a-4a78-b5ca-d834ff8db229)" alt="shopping_list_app" width="300" height="600" loop=infinite>
 
-https://github.com/DanielaAvendano/shopping_list_app/assets/93679196/2ccab4fe-af38-4269-8c0a-1d985cfe7e0b
-https://github.com/DanielaAvendano/shopping_list_app/assets/93679196/51ef9a3c-7169-41e2-84f7-a795e48e806f
+
 
